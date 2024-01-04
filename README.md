@@ -68,3 +68,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![screencapture-localhost-3000-2024-01-04-03_13_36](https://github.com/Het2604/age-calculator-in-react/assets/137598780/fb144dd7-00c2-4c84-b87e-9688d209588f)
+
+
+
